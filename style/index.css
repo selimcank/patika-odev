@@ -1,0 +1,22 @@
+#body-section div {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 80%;
+	font-size: 16px;
+	margin: auto;
+	font-family: 'Times New Roman', Times, serif;
+	display: flex;
+	flex-direction: column;
+	color: #343232;
+}
+
+#body-section div span {
+	font-size: 18px;
+	font-weight: 400;
+	margin: 20px 0 20px 0;
+}
+#body-section div p {
+	font-size: 16px;
+	font-weight: 400;
+	margin: 20px 0 20px 0;
+}
